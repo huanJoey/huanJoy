@@ -1,0 +1,9 @@
+.container{
+    background: #05c7fe;
+    width: 100%;
+    height:100%;
+    writing-mode: vertical-lr;/*文本方向垂直，目的使form的padding能取到高的百分比*/
+}
+.containerIn{
+    background: #4e802c;
+}
